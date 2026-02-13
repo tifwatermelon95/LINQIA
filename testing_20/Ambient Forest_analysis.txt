@@ -1,0 +1,13 @@
+{
+  "summary": "Sunbeams filter through the dense canopy of a forest, creating a serene and atmospheric scene. The footage transitions to a TikTok search interface displaying "@romania".",
+  "content_theme": ["Travel", "Environmental"],
+  "content_style": ["Ambient/Background Videos"],
+  "creator_presence": ["No visible people"],
+  "on_screen_text": ["Location Tags"],
+  "key_video_elements": ["Nature", "Text/Graphics"],
+  "gender": "Other",
+  "brand_safety": [],
+  "brand_type": [],
+  "brand_names": [],
+  "transcript": ""
+}

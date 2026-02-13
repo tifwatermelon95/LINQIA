@@ -1,0 +1,29 @@
+```json
+{
+  "summary": "The speaker discusses how individuals who do not participate in the affairs of their nation often believe things will work on their own. These individuals are labeled as tribalists who feel safe only with those from their own tribe, culture, or language group. The speaker suggests that true citizens are responsible and possess the desire and intellectual capacity to serve, and that civic education is crucial for societal growth, helping to transform "idiots" and "tribalists" into citizens.",
+  "content_theme": [
+    "Education",
+    "Social Commentary"
+  ],
+  "content_style": [
+    "Talking-Head",
+    "Storytelling"
+  ],
+  "creator_presence": [
+    "Face only"
+  ],
+  "on_screen_text": [
+    "Usernames/Handles"
+  ],
+  "key_video_elements": [
+    "Creator",
+    "Text/Graphics",
+    "Props"
+  ],
+  "gender": "Male",
+  "brand_safety": [],
+  "brand_type": [],
+  "brand_names": [],
+  "transcript": "Idiots who don't want to participate in the affairs of their nation. They think will just work in and of themselves. Then they are tribalists. And these tribalists, they think that they are only safe with people from their tribe. And tribe can mean people from the same culture, same language, same culture. Then they are citizens. Individuals who are responsible and know that when you want to be served, you must give those who have the desire and the intellectual capacity to serve you. In many societies, it is only a percentage of people that can be called citizens, not more than 5%. And if a society wants to grow in the right direction, civic education is what will help the idiot and the tribalist to become a citizen."
+}
+```

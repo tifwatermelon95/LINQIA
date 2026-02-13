@@ -1,0 +1,35 @@
+{
+  "summary": "A man stands in front of a whiteboard and explains how to find the derivative of 1/sqrt(x) using the limit definition. He shows the formula and then proceeds to simplify it through several steps involving clearing fractions, multiplying by the conjugate, and reducing the expression. Finally, he plugs in values for h to arrive at the solution and then confirms it by applying the power rule to the original function.",
+  "content_theme": [
+    "Education",
+    "Technology"
+  ],
+  "content_style": [
+    "Tutorial",
+    "Talking-Head"
+  ],
+  "creator_presence": [
+    "Full body"
+  ],
+  "on_screen_text": [
+    "Titles/Headlines",
+    "Brand Logos",
+    "Tutorial Steps",
+    "Product Names"
+  ],
+  "key_video_elements": [
+    "Creator",
+    "Text/Graphics",
+    "Technology"
+  ],
+  "gender": "Male",
+  "brand_safety": [],
+  "brand_type": [
+    "Tech brands",
+    "Stationery brands"
+  ],
+  "brand_names": [
+    "maxtek"
+  ],
+  "transcript": "Can you solve this derivative using the limit definition? Solve it with me using the limit definition. We start with the limit as h goes to zero of f of x plus h minus f of x all over h. To remove this discontinuity, it'll take two steps. First, I'm going to clear the fraction by multiplying by the common denominator and reduce out. This expression. Then we can get rid of the radical by multiplying by the conjugate on top and bottom. This is going to allow the x's to subtract out. And finally, reduce the h. Now that we've reduced the h and remove the discontinuity, we can plug zero into the expression. And a little simplified gives us our final answer. And we can confirm our answer using the power rule on the original expression. By writing that square root is a 1/2 power. Using the power rule and then simplifying in our result, using a little bit of algebra. How'd you do? And thank you to Max Tech for sending me these whiteboard and the pens that we got to use for this demonstration. You can check out their link in my bio. Always clean your whiteboard when done!"
+}

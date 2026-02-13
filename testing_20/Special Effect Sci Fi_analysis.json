@@ -1,0 +1,28 @@
+{
+  "summary": "The video shows the process of creating a special effect for a film opening. The creator demonstrates how to adjust cropping and rotation in editing software to achieve a desired look for the visual effects, which involve particles in a grassy field.",
+  "content_theme": "Film/TV",
+  "content_style": "Tutorials",
+  "creator_presence": "Creator-centric",
+  "on_screen_text": [
+    "Usernames/Handles",
+    "Titles/Headlines",
+    "Product Names",
+    "Screen Overlays"
+  ],
+  "key_video_elements": [
+    "Creator",
+    "Text/Graphics",
+    "Special Effects",
+    "Technology"
+  ],
+  "gender": "Male",
+  "brand_safety": [],
+  "brand_type": [
+    "Tech brands"
+  ],
+  "brand_names": [
+    "TikTok",
+    "DaVinci Resolve"
+  ],
+  "transcript": "And I did the special effects for the opening of my new sci-fi film. First, let's grade the footage. I'll use DaVinci Resolve to do the color grading to get this cinematic look. Then I use a stock video of particles that's already made. Put it on top of the graded footage. Then I need a little cropping from all the side to the left, from the right, the top, and the bottom. Let's make it a little smaller and then soften the edges. And then we need to move it and rotate it, and then we need to pitch so it's got that 3D feel. And voila."
+}
